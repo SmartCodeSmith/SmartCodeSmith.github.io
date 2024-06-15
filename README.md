@@ -5,6 +5,8 @@
   # Chirpy Jekyll Theme
   ```
   bundle exec jekyll s
+
+  bundle lock --add-platform x86_64-linux
   ```
   A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
